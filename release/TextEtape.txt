@@ -1,0 +1,5 @@
+compatibilitate 20/100
+ios 10
+android 30
+adsad 13/100
+adsadasd 13
